@@ -16,12 +16,12 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Young Min Ok
+  tagline: SKKU
   date_format: "%b %-d, %Y"
   style: yellow
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
