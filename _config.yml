@@ -19,8 +19,8 @@ texture:
   title: Young Min Ok
   tagline: SKKU
   date_format: "%b %-d, %Y"
-  style: yellow
-  showNav: true
+  style: blue
+  showNav: false
   showPicker: false
 
   # generate social links in footer
