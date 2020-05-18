@@ -25,9 +25,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    # twitter: thelehhman
+    github:  lemonok/lemonok.github.io
+    # linkedIn: in/thelehhman
     rss: rss
  
 
