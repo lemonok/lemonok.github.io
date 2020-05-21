@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Young Min Ok
-  tagline: SKKU
+  tagline: OSS
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
